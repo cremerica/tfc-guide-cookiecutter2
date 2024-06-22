@@ -1,6 +1,5 @@
 {
-    "instance_name": "my-ec2-instance",
-    "region": [ "us-east-1","us-east-2", "us-west-1","us-west-2"],
+    "poo": "",
     "project_slug": "",
     "version": "0.1"
 }
